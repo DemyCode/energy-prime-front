@@ -4,9 +4,6 @@ title: "🐛 [BUG] - <title>"
 labels: [
   "bug"
 ]
-projects: [
-  "Energy Project"
-]
 body:
   - type: textarea
     id: description
